@@ -105,7 +105,7 @@ Possible values are:
 - center
 - baseline
 
-align-items: stretch -----> By default the value is strech, it means the flex-items stretches the entire length of the container.
+align-items: stretch -----> By default the value is stretch, it means the flex-items stretches the entire length of the container.
 
 align-items: flex-start -----> All the items are pushed to the start of the container along the cross-axis.
 
